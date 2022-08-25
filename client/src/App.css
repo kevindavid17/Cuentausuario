@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.errorEmail{
+    color: red;
+}
+.errorUser{
+    color: blue;
+}
+.msgCreacion{
+    color: green;
+}
